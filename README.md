@@ -78,3 +78,11 @@ Rules that were simplified into one rule:
 img in header, "header-image", would not allow an alt or title property to be applied without changing layout of website.
 
 Contemplated changing unique class "float-right" into an id, but for organizational sake in CSS decided not to. Since it would be separated from "float-left", making it difficult to find.
+
+**Screenshot**
+
+
+
+**Link to Deployed Version of Application**
+
+https://eacquistapace.github.io/Challenge-1/
