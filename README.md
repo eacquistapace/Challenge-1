@@ -81,7 +81,7 @@ Contemplated changing unique class "float-right" into an id, but for organizatio
 
 **Screenshot**
 
-
+![webpage-screenshot](https://user-images.githubusercontent.com/104277073/165877547-0c725d0a-59b5-4565-b279-973aa8418221.png)
 
 **Link to Deployed Version of Application**
 
